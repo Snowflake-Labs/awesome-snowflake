@@ -35,6 +35,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Data Marketplace](https://www.snowflake.com/data-marketplace/)
 - [Release notes](https://docs.snowflake.com/en/release-notes.html)
 - ["Rise of the Data Cloud"](https://smile.amazon.com/Rise-Data-Cloud-Frank-Slootman/dp/1728363608) book 
+- [Podcast](https://www.snowflake.com/rise-of-the-data-cloud-podcast/)
 
 ## Contribute
 
