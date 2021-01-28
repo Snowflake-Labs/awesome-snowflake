@@ -28,6 +28,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 
 - [Snowflake essentials training](https://www.snowflake.com/snowflake-essentials-training/) - free
 - [Getting started guides](https://guides.snowflake.com/) - quick and interactive
+- [Certification prep](https://www.youtube.com/watch?v=GYibSRsdbwo&list=PL8P3u3jjMVVlOo_ZzuT-iVFrYwkDZu-7u) - on Youtube, by Joyce Avila
 
 
 
