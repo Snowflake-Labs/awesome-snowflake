@@ -11,7 +11,8 @@ Main links for community and content:
 - [Official blog](https://www.snowflake.com/blog/)
 - [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel
 - [Official Snowflake community](https://community.snowflake.com/s/)
-- [Medium](https://medium.com/snowflake/)
+- [Snowflake Medium](https://medium.com/snowflake/) publication
+- [Release notes](https://docs.snowflake.com/en/release-notes.html)
 
 
 ### Follow on Twitter
