@@ -4,7 +4,7 @@
 
 ## Community and content
 
-Main links for community and content:
+Main links for community and content, remember to subscribe:
 
 - [/r/snowflake](https://reddit.com/r/snowflake) - everything new and interesting, on reddit
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform)
@@ -12,7 +12,6 @@ Main links for community and content:
 - [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel
 - [Official Snowflake community](https://community.snowflake.com/s/)
 - [Snowflake Medium publication](https://medium.com/snowflake/) 
-- [Release notes](https://docs.snowflake.com/en/release-notes.html)
 
 
 ### Follow on Twitter
@@ -31,6 +30,10 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Certification prep](https://www.youtube.com/watch?v=GYibSRsdbwo&list=PL8P3u3jjMVVlOo_ZzuT-iVFrYwkDZu-7u) - on Youtube, by Joyce Avila
 - [Official webinars](https://www.snowflake.com/about/webinars/)
 
+## Official resources
+
+- [Data Marketplace](https://www.snowflake.com/data-marketplace/)
+- [Release notes](https://docs.snowflake.com/en/release-notes.html)
 
 
 ## Contribute
