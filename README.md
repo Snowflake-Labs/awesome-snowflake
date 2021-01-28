@@ -2,27 +2,32 @@
 
 > A curated list of awesome resources about Snowflake
 
+## Community and content
 
-## Contents
+Main links for community and content:
 
-- [Section](#section)
-- [Another Section](#another-section)
-
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [reddit.com/r/snowflake](https://reddit.com/r/snowflake): Keep track of everything new and interesting.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform)
+- [Snowflake blog](https://www.snowflake.com/blog/)
+- [Youtube](https://www.youtube.com/user/snowflakecomputing)
+- [Snowflake community](https://community.snowflake.com/s/)
+- [Medium](https://medium.com/snowflake/)
 
 
-## Another Section
+### Follow on Twitter
 
-### Subsection
+Active on Twitter and focused on Snowflake - sorted by follower count:
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [@SnowflakeDB](https://twitter.com/snowflakedb)
+- [@felipehoffa](https://twitter.com/felipehoffa)
+- [@KentGraziano](https://twitter.com/KentGraziano)
+- [@jdanielmyers](https://twitter.com/jdanielmyers)
+
+## Learn
+
+- [Free essentials training](https://www.snowflake.com/snowflake-essentials-training/)
+- [Getting started guides](https://guides.snowflake.com/)
+
 
 
 ## Contribute
