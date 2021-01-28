@@ -25,8 +25,8 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 
 ## Learn
 
-- [Free essentials training](https://www.snowflake.com/snowflake-essentials-training/)
-- [Getting started guides](https://guides.snowflake.com/)
+- [Snowflake essentials training](https://www.snowflake.com/snowflake-essentials-training/) - free
+- [Getting started guides](https://guides.snowflake.com/) - quick and interactive
 
 
 
