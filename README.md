@@ -44,6 +44,11 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [GitHub projects](https://www.reddit.com/r/snowflake/search?q=%5Bgithub%5D&restrict_sr=on&sort=relevance&t=all)
 - [Videos](https://www.reddit.com/r/snowflake/search?q=%5Bvideo%5D&restrict_sr=on&sort=relevance&t=all)
 
+## Open source integrations
+
+- [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
+- [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
