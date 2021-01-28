@@ -8,9 +8,9 @@ Main links for community and content:
 
 - Reddit [/r/snowflake](https://reddit.com/r/snowflake), everything new and interesting
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform)
-- [Snowflake blog](https://www.snowflake.com/blog/)
-- [Youtube](https://www.youtube.com/user/snowflakecomputing)
-- [Snowflake community](https://community.snowflake.com/s/)
+- [Official blog](https://www.snowflake.com/blog/)
+- [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel
+- [Official Snowflake community](https://community.snowflake.com/s/)
 - [Medium](https://medium.com/snowflake/)
 
 
