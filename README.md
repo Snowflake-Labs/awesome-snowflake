@@ -39,6 +39,11 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Solution partners](https://www.snowflake.com/partners/solutions-partners/)
 - [Technology partners](https://www.snowflake.com/partners/technology-partners/)
 
+## Reddit curated links
+
+- [GitHub projects](https://www.reddit.com/r/snowflake/search?q=%5Bgithub%5D&restrict_sr=on&sort=relevance&t=all)
+- [Videos](https://www.reddit.com/r/snowflake/search?q=%5Bvideo%5D&restrict_sr=on&sort=relevance&t=all)
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
