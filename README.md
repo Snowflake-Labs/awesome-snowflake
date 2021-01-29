@@ -10,7 +10,8 @@ Main links for community and content, remember to subscribe:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform)
 - [Official blog](https://www.snowflake.com/blog/)
 - [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel
-- [Official Snowflake community](https://community.snowflake.com/s/)
+- [Official Snowflake community](https://community.snowflake.com/s/) - join to become a Data Hero
+- [Developer Resources](https://developers.snowflake.com) - download tools and checkout the next developer conference
 - [Snowflake Medium publication](https://medium.com/snowflake/) 
 
 
@@ -25,8 +26,9 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 
 ## Learn
 
+- [Snowflake Guides](https://guides.snowflake.com/) - quick and interactive tutorials for getting started with Snowflake
+- [Reference Docs](https://docs.snowflake.com/) - read reference material about Snowflake
 - [Snowflake essentials training](https://www.snowflake.com/snowflake-essentials-training/) - free
-- [Getting started guides](https://guides.snowflake.com/) - quick and interactive
 - [Certification prep](https://www.youtube.com/watch?v=GYibSRsdbwo&list=PL8P3u3jjMVVlOo_ZzuT-iVFrYwkDZu-7u) - on Youtube, by Joyce Avila
 - [Official webinars](https://www.snowflake.com/about/webinars/)
 
