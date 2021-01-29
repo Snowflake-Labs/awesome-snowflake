@@ -41,6 +41,15 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Solution partners](https://www.snowflake.com/partners/solutions-partners/)
 - [Technology partners](https://www.snowflake.com/partners/technology-partners/)
 
+## Data Modeling
+
+### Data Vault
+
+- [Learn about Data Vault](https://datavaultalliance.com/news/dv/learn-about-data-vault/)
+- [Support multiple data modeling approaches with Snowflake](https://www.snowflake.com/blog/support-multiple-data-modeling-approaches-with-snowflake/)
+- [Tips for optimizing the Data Vault architecture on Snowflake](https://www.snowflake.com/blog/tips-for-optimizing-the-data-vault-architecture-on-snowflake/)
+- [Data Vault and Kimball at Picnic](https://blog.picnic.nl/picnics-lakeless-data-warehouse-8ec02801d50b)
+
 ## Reddit curated links
 
 - [GitHub projects](https://www.reddit.com/r/snowflake/search?q=%5Bgithub%5D&restrict_sr=on&sort=relevance&t=all)
