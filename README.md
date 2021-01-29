@@ -7,12 +7,12 @@
 Main links for community and content, remember to subscribe:
 
 - [/r/snowflake](https://reddit.com/r/snowflake) - everything new and interesting, on reddit
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform)
-- [Official blog](https://www.snowflake.com/blog/)
-- [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/snowflake-cloud-data-platform) - get your questions answered
+- [Official Youtube](https://www.youtube.com/user/snowflakecomputing) channel - view clips about features and customers
 - [Official Snowflake community](https://community.snowflake.com/s/) - join to become a Data Hero
 - [Developer Resources](https://developers.snowflake.com) - download tools and checkout the next developer conference
-- [Snowflake Medium publication](https://medium.com/snowflake/) 
+- [Snowflake Corporate Blog](https://www.snowflake.com/blog/) - read the latest product announcements and Snowflake news
+- [Snowflake Medium Blog](https://medium.com/snowflake/) - read articles from Snowflake engineers and experts in the community
 
 
 ### Follow on Twitter
