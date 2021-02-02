@@ -55,10 +55,22 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [GitHub projects](https://www.reddit.com/r/snowflake/search?q=%5Bgithub%5D&restrict_sr=on&sort=relevance&t=all)
 - [Videos](https://www.reddit.com/r/snowflake/search?q=%5Bvideo%5D&restrict_sr=on&sort=relevance&t=all)
 
-## Open source integrations
+## Open source
+
+### Snowflake Integrations
 
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
+
+### Open Source Demos
+
+- Auto-Ingest Live Twitter Data Into Snowflake
+  - [How-To Guide](https://guides.snowflake.com/guide/Auto-Ingest_Twitter_Data_into_Snowflake/)
+  - [Source Code](https://github.com/Snowflake-Labs/sfguide-twitter-auto-ingest)
+- Build a Recommendation Engine with AWS SageMaker and Snowflake
+  - [How-To Guide](https://guides.snowflake.com/guide/recommendation_engine_aws_sagemaker/)
+  - [Source Code](https://github.com/Snowflake-Labs/sfguide-recommender-pipeline)
+
 
 ## Contribute
 
