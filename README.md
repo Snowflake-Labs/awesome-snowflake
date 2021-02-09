@@ -61,6 +61,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
+- [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 
 ### Open Source Demos
 
