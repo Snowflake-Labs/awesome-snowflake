@@ -64,6 +64,10 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Airflow](http://airflow.apache.org/docs/apache-airflow-providers-snowflake/stable/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 
+### UDFs/Procedures
+
+- [The CARTO Analytics Toolbox for Snowflake](https://github.com/CartoDB/carto-spatial-extension) - A set of UDFs and Procedures to extend Snowflake with Spatial Analytics capabilities
+
 ### Open Source Demos
 
 - Auto-Ingest Live Twitter Data Into Snowflake
