@@ -59,10 +59,11 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 
 ### Snowflake Integrations
 
+- [Apache Airflow](http://airflow.apache.org/docs/apache-airflow-providers-snowflake/stable/)
+- [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
+- [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
-- [Apache Airflow](http://airflow.apache.org/docs/apache-airflow-providers-snowflake/stable/)
-- [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 
 ### Open Source Demos
 
@@ -72,6 +73,11 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - Build a Recommendation Engine with AWS SageMaker and Snowflake
   - [How-To Guide](https://guides.snowflake.com/guide/recommendation_engine_aws_sagemaker/)
   - [Source Code](https://github.com/Snowflake-Labs/sfguide-recommender-pipeline)
+- Ingest messages from Google Pub/Sub to Snowflake with Apache Beam
+  - [How-To Guide](https://quickstarts.snowflake.com/guide/ingest_data_from_pubsub_to_snowflake_with_apache_beam)
+  - [Source Code](https://github.com/Snowflake-Labs/sfguide-beam-ingest-data-from-pubsub-to-snowflake/tree/source-code)
+
+
 
 
 ## Contribute
