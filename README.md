@@ -76,7 +76,13 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - Ingest messages from Google Pub/Sub to Snowflake with Apache Beam
   - [How-To Guide](https://quickstarts.snowflake.com/guide/ingest_data_from_pubsub_to_snowflake_with_apache_beam)
   - [Source Code](https://github.com/Snowflake-Labs/sfguide-beam-ingest-data-from-pubsub-to-snowflake/tree/source-code)
-
+- Serverless Pipeline Replacing a Lambda Architecture with Snowflake, dbt, AWS
+  - [How-To Guide](https://towardsdatascience.com/the-modern-data-pattern-d34d42216c81)
+  - [Source Code](https://github.com/jacopotagliabue/paas-data-ingestion) 
+- Joining dataOps and MLOps, Training a Deep Learning Recommender with Snowflake, dbt, and Metaflow
+  - [Paper](https://dl.acm.org/doi/10.1145/3460231.3474604)
+  - [Source Code](https://github.com/jacopotagliabue/you-dont-need-a-bigger-boat)
+  - [Video](https://www.youtube.com/watch?v=Ndxpo4PeEms)
 
 
 
