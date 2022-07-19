@@ -65,6 +65,10 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
+### UDFs/Procedures
+
+- [The CARTO Analytics Toolbox for Snowflake](https://github.com/CartoDB/carto-spatial-extension) - A set of UDFs and Procedures to extend Snowflake with Spatial Analytics capabilities
+
 ### Open Source Demos
 
 - Auto-Ingest Live Twitter Data Into Snowflake
