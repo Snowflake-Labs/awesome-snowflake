@@ -63,6 +63,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
+- [ingestr](https://github.com/bruin-data/ingestr) - CLI tool to copy data from any source to Snowflake with a single command. Supports 50+ source connectors.
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
 ### UDFs/Procedures
