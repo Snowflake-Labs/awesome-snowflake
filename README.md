@@ -62,6 +62,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Airflow](http://airflow.apache.org/docs/apache-airflow-providers-snowflake/stable/)
 - [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
+- [Bruin](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool with native Snowflake support. Combines ingestion, SQL/Python transformations, and data quality checks.
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
