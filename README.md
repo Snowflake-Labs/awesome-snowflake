@@ -63,6 +63,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
+- [dlt](https://dlthub.com/docs/dlt-ecosystem/destinations/snowflake)
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
 ### UDFs/Procedures
