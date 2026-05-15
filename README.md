@@ -63,6 +63,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
+- [GeoSQL](https://github.com/dekart-xyz/geosql) - Claude/Codex skill for geospatial SQL on Snowflake. Works directly with `snow` CLI, no MCP needed.
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
 ### UDFs/Procedures
