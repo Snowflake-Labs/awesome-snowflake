@@ -68,6 +68,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 ### UDFs/Procedures
 
 - [The CARTO Analytics Toolbox for Snowflake](https://github.com/CartoDB/carto-spatial-extension) - A set of UDFs and Procedures to extend Snowflake with Spatial Analytics capabilities
+- [QueryTrace](https://github.com/TracepointData/QueryTrace) - Free SQL procedures that trace which statement inside a Snowflake stored procedure regressed, and why, by reconstructing the parent/child call tree QUERY_HISTORY doesn't expose
 
 ### Open Source Demos
 
