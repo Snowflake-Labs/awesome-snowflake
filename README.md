@@ -63,6 +63,7 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [Apache Beam](https://beam.apache.org/documentation/io/built-in/snowflake/)
 - [Apache Superset](https://superset.apache.org/docs/databases/snowflake)
 - [dbt](https://blog.getdbt.com/how-we-configure-snowflake/)
+- [FrostWatch](https://github.com/arunrajiah/frostwatch) - Open source, self-hosted cost and query observability for Snowflake, with anomaly detection and BYO-LLM explanations
 - [Terraform](https://github.com/chanzuckerberg/terraform-provider-snowflake)
 
 ### UDFs/Procedures
