@@ -55,6 +55,10 @@ Active on Twitter and focused on Snowflake - sorted by follower count:
 - [GitHub projects](https://www.reddit.com/r/snowflake/search?q=%5Bgithub%5D&restrict_sr=on&sort=relevance&t=all)
 - [Videos](https://www.reddit.com/r/snowflake/search?q=%5Bvideo%5D&restrict_sr=on&sort=relevance&t=all)
 
+## Tools
+
+- [Beekeeper Studio](https://www.beekeeperstudio.io/db/snowflake-client/) - Modern and easy to use SQL editor for Snowflake on Windows, macOS, and Linux. Snowflake support is in the paid tiers.
+
 ## Open source
 
 ### Snowflake Integrations
